@@ -17,3 +17,7 @@ Mis habilidades 🔧
 ¡Estoy emocionado de conectarme con personas apasionadas por la tecnología, el análisis de datos y la innovación! Siempre estoy abierto a nuevas oportunidades de colaboración, así que no dudes en contactarme.
 
 ¡Vamos a construir algo increíble juntos! 💪
+### Herramientas en las que me destaco:
+![Javascript](https://img.shields.io/badge/Lenguajes-Javascript-yellow)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
