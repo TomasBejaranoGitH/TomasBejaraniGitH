@@ -1,5 +1,5 @@
 # TomasBejaraniGitH
-prueba
+
 ¡Hola a todos! 👋
 ¡Soy Tomás, un ingeniero industrial apasionado por la tecnología y el análisis de datos! 💡 Actualmente estoy inmerso en el emocionante mundo del análisis de datos, explorando formas creativas de aprovechar la información para tomar decisiones más inteligentes y eficientes.
 
